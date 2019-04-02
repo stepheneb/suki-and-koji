@@ -18,6 +18,9 @@ class App extends Component{
           your eyes when your head is almost entirely surrounded by a giant
           mouth.
         </p>
+        <p>
+          <a href="https://github.com/stepheneb/suki-and-koji">github.com/stepheneb/suki-and-koji</a>
+        </p>
       </div>
     );
   }
